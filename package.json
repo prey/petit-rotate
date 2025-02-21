@@ -1,0 +1,20 @@
+{
+  "name": "petit-rotate",
+  "version": "0.0.4",
+  "description": "Petit log rotator",
+  "main": "index.js",
+  "author": {
+    "name": "Javier Acuña",
+    "email": "javo@preyhq.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/javo/petit-rotate.git"
+  },
+  "license": "ISC",
+  "keywords": [
+    "log",
+    "rotate",
+    "petit"
+  ]
+}
